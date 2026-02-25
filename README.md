@@ -1,4 +1,5 @@
 # EXCEL_DASHBOARD
+This repository contains a collection of Excel-based financial modeling, data analysis, and visualization exercises. The project demonstrates practical implementation of Excel formulas, financial functions, dashboards, charts, macros, and statistical analysis through structured lab exercises. These exercises help in understanding real-world applications of Excel in business analytics, finance, and data science.
 STUDENT INFORMATION DASHBOARD:
 <img width="1627" height="645" alt="STUDENT INFORMATION DASHBOARD" src="https://github.com/user-attachments/assets/6b76f7b9-930d-44ea-a101-479682c058d0" />
 Student Information System – Insights The dashboard highlights a clear gender imbalance with 549 male and 248 female students. Admissions show strong growth from 2019 to 2021, peaking in 2021, followed by a slight decline in 2022. Most students are concentrated in nearby regions, especially Tirupur, indicating strong local enrollment dominance with limited geographic diversity. Overall, the dashboard helps identify enrollment trends, demographic patterns, and regional distribution for better academic planning.
