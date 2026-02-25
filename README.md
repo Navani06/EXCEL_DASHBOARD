@@ -1,1 +1,10 @@
 # EXCEL_DASHBOARD
+STUDENT INFORMATION DASHBOARD:
+<img width="1627" height="645" alt="STUDENT INFORMATION DASHBOARD" src="https://github.com/user-attachments/assets/6b76f7b9-930d-44ea-a101-479682c058d0" />
+Student Information System – Insights The dashboard highlights a clear gender imbalance with 549 male and 248 female students. Admissions show strong growth from 2019 to 2021, peaking in 2021, followed by a slight decline in 2022. Most students are concentrated in nearby regions, especially Tirupur, indicating strong local enrollment dominance with limited geographic diversity. Overall, the dashboard helps identify enrollment trends, demographic patterns, and regional distribution for better academic planning.
+HR DASHBOARD:
+<img width="1172" height="610" alt="HR DASHBOARD" src="https://github.com/user-attachments/assets/af975932-a201-4bd9-855d-d3004e515286" />
+ HR Dashboard – Insights The dashboard shows that Operations and Marketing have the highest number of employees, while IT and Finance have the lowest. The workforce is largely experienced, with most employees aged above 40, and fewer employees below 25. Gender distribution is perfectly balanced at 50% male and 50% female, indicating strong diversity. Recruitment is mainly driven by Job Portals, followed by Walk-ins and Referrals, showing that online hiring channels are the most effective source.
+ ECOMMERCE DASGHBOARD:
+ <img width="1187" height="465" alt="ECOMMERCE DASHBOARD" src="https://github.com/user-attachments/assets/3cc7b18d-0978-4eac-8f5a-47cf37b886ed" />
+E-Commerce Sales Data – Insights The analysis shows consistent year-over-year growth in sales and profit from 2011 to 2014, with peak performance in Q4 (October–December). The Consumer segment contributes the highest share of revenue and shipping cost, and Standard Class shipping is the most preferred mode. Technology and furniture sub-categories generate higher sales and profits, while some office supplies contribute lower margins. Overall, the dashboard reveals strong business growth, seasonal trends, and key revenue-driving segments.
